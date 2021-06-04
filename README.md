@@ -22,3 +22,5 @@ copyright Lisa Allacher
 (c) Sophie Wiedemann
 
 Irgendwas by Kathi
+
+Stefan was here
