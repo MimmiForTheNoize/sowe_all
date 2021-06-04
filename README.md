@@ -6,4 +6,7 @@
 4. Grace Hopper
 5. Anna Komnena
 
-this is a text
+this is my list of women,
+and I am sure I forgot a lot of others 
+
+copyright Lisa Allacher
