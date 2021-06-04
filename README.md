@@ -1,9 +1,9 @@
-## this is my readme
+## women in history
 
-1. first 
-2. sec
-3. third
-4. four
-5. five
+1. Alexandra Kollontai 
+2. harriet tubman
+3. Lady Ada Lovelace
+4. Grace Hopper
+5. Anna Komnena
 
 this is a text
