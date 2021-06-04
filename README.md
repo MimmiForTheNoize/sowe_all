@@ -20,3 +20,5 @@ copyright Lisa Allacher
 6. MAVEN
 
 (c) Sophie Wiedemann
+
+Irgendwas by Kathi
